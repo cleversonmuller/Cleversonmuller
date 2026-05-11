@@ -39,7 +39,7 @@ Sou estudante do curso de *Análise e Desenvolvimento de Sistemas (ADS)* na *UNI
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -48,6 +48,7 @@ Sou estudante do curso de *Análise e Desenvolvimento de Sistemas (ADS)* na *UNI
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleversonmuller&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+>
 
 ---
 
