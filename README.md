@@ -43,12 +43,12 @@ Sou estudante do curso de *Análise e Desenvolvimento de Sistemas (ADS)* na *UNI
 
 <div align="center">
 
-![Cleverson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cleversonmuller&show_icons=true&theme=tokyonight&hide_border=true)
+![Cleverson's GitHub Stats](https://github-readme-stats.vercel.app/api?Cleversonmuller&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleversonmuller&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Cleversonmuller&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
->
+
 
 ---
 
