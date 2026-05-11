@@ -1,5 +1,8 @@
 # Olá, eu sou Cleverson Muller! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Cleversonmuller&color=blue&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Cleversonmuller?style=for-the-badge)
+
 ### 🎓 Estudante de ADS | Suporte Técnico | Apaixonado por Tecnologia
 
 ---
