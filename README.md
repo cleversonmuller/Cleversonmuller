@@ -10,7 +10,7 @@ Sou estudante do curso de *Análise e Desenvolvimento de Sistemas (ADS)* na *UNI
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas — UNIDEP
 - 💼 Suporte Técnico na SINNC
-- 🌱 ja estudando *HTML, CSS, Python, Java, JavaScript e MySQL*
+- 📚 Já estudei: Lógica de Programação, Redes de Computadores, Fundamentos de Banco de Dados
 - 🤝 Apaixonado por tecnologia
 - 📍 Pato Branco — PR, Brasil
 
@@ -18,7 +18,7 @@ Sou estudante do curso de *Análise e Desenvolvimento de Sistemas (ADS)* na *UNI
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens
+### ✅ Tecnologias já concluídas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
