@@ -1,8 +1,5 @@
 # Olá, eu sou Cleverson Muller! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Cleversonmuller&color=blue&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Cleversonmuller?style=for-the-badge)
-
 ### 🎓 Estudante de ADS | Suporte Técnico | Apaixonado por Tecnologia
 
 ---
@@ -52,9 +49,11 @@ Sou estudante do curso de *Análise e Desenvolvimento de Sistemas (ADS)* na *UNI
 
 <div align="center">
 
-![Cleverson's GitHub Stats](https://github-readme-stats.vercel.app/api?Cleversonmuller&show_icons=true&theme=tokyonight&hide_border=true)
+![Cleverson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cleversonmuller&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Cleversonmuller&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleversonmuller&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cleversonmuller&theme=tokyonight&hide_border=true)
 
 </div>
 
